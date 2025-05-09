@@ -27,7 +27,6 @@ user_inputs = {
     "DaysOnMarket": st.number_input("Days on Market", 0, 365, 30),
     "Fireplaces": st.number_input("Fireplaces", 0, 5, 1),
     "CloseMonth": st.number_input("Close Month (1-12)", 1, 12, 5),
-    "CloseYear": st.number_input("Close Year", 2010, 2030, 2025),
     "TotalPotentialBedrooms": st.number_input("Total Potential Bedrooms", 0, 10, 3),
 
     # Binary features
@@ -67,7 +66,7 @@ if st.button("Predict Price"):
         "YearBuilt", "DaysOnMarket", "GarageSpaces", "CoolingCentral", "HeatingCentral",
         "HasPool", "CloseMonth", "HasNewKitchen", "HasNewRoof", "HasRemodel",
         "HasRiverfront", "MentionsLuxury", "MentionsView", "HasNewBathroom",
-        "PossibleBedrooms", "TotalPotentialBedrooms", "CloseYear", "IsFixerUpper",
+        "PossibleBedrooms", "TotalPotentialBedrooms", "IsFixerUpper",
         "Fireplaces", "HasSolar", "HasWholeHouseFan", "HasUpdatedFlooring",
         "HasUpdatedKitchen", "HasUpdatedBathrooms", "HasBackyardRetreat", "HasADU",
         "HasRVAccess", "City"
