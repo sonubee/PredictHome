@@ -52,7 +52,7 @@ user_inputs = {
     "HasRVAccess": int(st.checkbox("RV Access"))
 }
 
-# Predict
+# Prediction
 if st.button("Predict Price"):
     df = pd.DataFrame([user_inputs])
 
