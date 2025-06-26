@@ -12,6 +12,9 @@ st.title("🏠 Home Price Predictor")
 # Collect inputs
 st.header("Enter Property Details")
 
+# Steps
+st.write("Feel free to edit the information. Be sure to put an actual Sacramento City and Address")
+
 # Define form inputs
 user_inputs = {
     "ZipCode": st.text_input("ZIP Code", "95825"),
