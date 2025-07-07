@@ -1,4 +1,3 @@
-
 import streamlit as st
 import xgboost as xgb
 import pandas as pd
@@ -14,6 +13,7 @@ st.header("Enter Property Details")
 
 # Steps
 st.write("Feel free to edit the information. Be sure to put an actual Sacramento City and Zip Code")
+st.write("This Linear Regression model from XGBoost uses 53,000 sold homes data since the end of 2021 in Sacramento County alone")
 
 # Define form inputs
 user_inputs = {

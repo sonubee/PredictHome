@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4ff8758-bd6c-4955-a0d9-4b46abb59e5f" name="Changes" comment="Updated Model">
+    <list default="true" id="d4ff8758-bd6c-4955-a0d9-4b46abb59e5f" name="Changes" comment="Updated UI Again">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +116,23 @@
       <option name="project" value="LOCAL" />
       <updated>1748383408439</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Updated UI">
+      <option name="closed" value="true" />
+      <created>1750978433960</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1750978433960</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Updated UI Again">
+      <option name="closed" value="true" />
+      <created>1750978571495</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1750978571495</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +144,8 @@
     <MESSAGE value="Removed CloseYear" />
     <MESSAGE value="Added CloseYear" />
     <MESSAGE value="Updated Model" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Model" />
+    <MESSAGE value="Updated UI" />
+    <MESSAGE value="Updated UI Again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated UI Again" />
   </component>
 </project>
